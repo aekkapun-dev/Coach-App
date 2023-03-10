@@ -2,9 +2,7 @@
 <h3>This is front-end website where someone can see coaches or register/login as coach</h3>
 Done as part of the Udemy course called "Vue - The Complete Guide (incl. Router & Composition API)" by Maximilian Schwarzmüller<br><br>
 
-<img src="screenshots/2.png" width="900">
-<img src="screenshots/1.png" width="900">
-<img src="screenshots/3.png" width="900">
+
 
 # Tools and services used
 <ul>
