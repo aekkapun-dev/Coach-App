@@ -17,11 +17,11 @@ Done as part of the Udemy course called "Vue - The Complete Guide (incl. Router 
 # Local Installation
 ```
 Download the zip from github and extract it
-Import Coach App root folder to vscode
-Confirm you are on "Coach App" directory
-npm install
-npm run serve
-Follow the server link that provided after build
+Import "Coach-App-master" root folder to vscode
+Confirm you are on "Coach-App-master" directory
+Run npm install
+Run npm run serve
+Follow the link that provided after build
 ```
 
 # Live
