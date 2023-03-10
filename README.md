@@ -10,7 +10,7 @@ Done as part of the Udemy course called "Vue - The Complete Guide (incl. Router 
 <ul>
 <li><b>Vue3</b></li>
 <li><b>Vue Router</b></li>
-<li><b>Vue Store</b></li>
+<li><b>Vuex</b></li>
 <li><b>Firebase</b></li>
 </ul>
 
